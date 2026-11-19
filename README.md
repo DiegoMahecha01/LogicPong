@@ -34,7 +34,7 @@ Consola interactiva para dos jugadores basada en el videojuego clásico *Pong*, 
 
 ## Estructura del repositorio
 ```text
-LogicPong-FPGA/
+LogicPong/
 ├── src/        # Código fuente sintetizable en Verilog (.v)
 ├── quartus/    # Archivos de proyecto, asignación de pines y restricciones (.qpf, .qsf, .sdc)
 └── docs/       # Informe técnico en formato IEEE (.pdf)
