@@ -30,7 +30,8 @@ Consola interactiva para dos jugadores basada en el videojuego clásico *Pong*, 
 | `adc_cs_n` | `PIN_32` | MCP3008 Pin 10 (`CS/SHDN`) |
 | `adc_mosi` | `PIN_34` | MCP3008 Pin 11 (`DIN`) |
 | `adc_miso` | `PIN_39` | MCP3008 Pin 12 (`DOUT`) |
-| `btn_start` | `PIN_42` | Pulsador externo de inicio (*Weak Pull-Up* activado) |
+| `btn_start` | `PIN_42` | Pulsador externo de inicio |
+| `btn_reset` | `PIN_49` | Pulsador externo de reset |
 
 ## Estructura del repositorio
 ```text
