@@ -33,15 +33,15 @@ Consola interactiva para dos jugadores basada en el videojuego clásico *Pong*, 
 | `btn_start` | `PIN_42` | Pulsador externo de inicio |
 | `btn_reset` | `PIN_49` | Pulsador externo de reset |
 
+## Video de demostración
+[Ver funcionamiento de LogicPong en hardware](https://drive.google.com/file/d/10MRo68d3gmzyeKxQJgFokKfVDd79wmLB/view?usp=sharing)
+
 ## Estructura del repositorio
 ```text
 LogicPong/
 ├── src/        # Código fuente sintetizable en Verilog (.v)
 ├── quartus/    # Archivos de proyecto, asignación de pines y restricciones (.qpf, .qsf, .sdc)
 └── docs/       # Informe técnico en formato IEEE (.pdf)
-
-## Video de demostración
-[Ver funcionamiento de LogicPong en hardware](https://drive.google.com/file/d/10MRo68d3gmzyeKxQJgFokKfVDd79wmLB/view?usp=sharing)
 
 Autores
 Juan Manuel Berdugo Torres (jberdugot@unal.edu.co)
