@@ -40,6 +40,9 @@ LogicPong/
 ├── quartus/    # Archivos de proyecto, asignación de pines y restricciones (.qpf, .qsf, .sdc)
 └── docs/       # Informe técnico en formato IEEE (.pdf)
 
+## Video de demostración
+[Ver funcionamiento de LogicPong en hardware](https://drive.google.com/file/d/10MRo68d3gmzyeKxQJgFokKfVDd79wmLB/view?usp=sharing)
+
 Autores
 Juan Manuel Berdugo Torres (jberdugot@unal.edu.co)
 
